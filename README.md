@@ -1,4 +1,4 @@
-# movie-recommendation-engine.
+
 # Movie Recommendation Engine
 
 ## Overview
@@ -91,5 +91,4 @@ streamlit run app.py
 * Personalized user profiles.
 
 ## Author
-
 Abhishek Jena
