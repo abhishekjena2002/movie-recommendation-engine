@@ -92,3 +92,16 @@ streamlit run app.py
 
 ## Author
 Abhishek Jena
+
+Sklearn
+mlops
+notebook
+airflow
+promtheus
+grafana
+clickhouse
+mysql
+postgresSQL
+mlflow
+cosinsimilarity
+
