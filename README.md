@@ -91,17 +91,5 @@ streamlit run app.py
 * Personalized user profiles.
 
 ## Author
-Abhishek Jena
-
-Sklearn
-mlops
-notebook
-airflow
-promtheus
-grafana
-clickhouse
-mysql
-postgresSQL
-mlflow
-cosinsimilarity
+Abhishek 
 
