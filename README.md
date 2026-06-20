@@ -91,5 +91,5 @@ streamlit run app.py
 * Personalized user profiles.
 
 ## Author
-Abhishek 
+Abhishek
 
